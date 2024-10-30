@@ -1,0 +1,46 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Japanized Subscription Price Display\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-16 16:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#. Author of the plugin
+msgid "James Konno"
+msgstr ""
+
+#. Name of the plugin
+msgid "Japanized Subscription Price Display"
+msgstr ""
+
+#: japanized-subscription-price-display.php:105
+msgid ""
+"Japanized Subscription Price Display does nothing when WooCommerce "
+"Subscriptions is not active."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Modifies default WooCommerce Subscriptions prices to look more natural in "
+"Japanese."
+msgstr ""
+
+#: japanized-subscription-price-display.php:108
+msgid ""
+"With Japanized Subscription Price Display activated, WooCommerce prices "
+"might appear a little odd when the site language is not Japanese."
+msgstr ""
+
+#: japanized-subscription-price-display.php:44
+msgid "yori"
+msgstr ""

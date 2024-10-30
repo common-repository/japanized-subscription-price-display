@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Japanized Subscription Price Display\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-16 16:45+0000\n"
+"PO-Revision-Date: 2020-12-16 17:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#. Author of the plugin
+msgid "James Konno"
+msgstr "こんのジェームズ"
+
+#. Name of the plugin
+msgid "Japanized Subscription Price Display"
+msgstr "日本風サブスク価格表示"
+
+#: japanized-subscription-price-display.php:105
+msgid ""
+"Japanized Subscription Price Display does nothing when WooCommerce "
+"Subscriptions is not active."
+msgstr "日本風サブスク価格表示は、WooCommerce Subscriptionsが無効化されていると何の効果も発揮しません。"
+
+#. Description of the plugin
+msgid ""
+"Modifies default WooCommerce Subscriptions prices to look more natural in "
+"Japanese."
+msgstr "WooCommerce Subscriptionsのデフォルト価格表示を、より自然な日本語のフォーマットに変換します。"
+
+#: japanized-subscription-price-display.php:108
+msgid ""
+"With Japanized Subscription Price Display activated, WooCommerce prices "
+"might appear a little odd when the site language is not Japanese."
+msgstr ""
+"With 日本風サブスク価格表示 activated, WooCommerce prices might appear a little odd "
+"when the site language is not Japanese."
+
+#: japanized-subscription-price-display.php:44
+msgid "yori"
+msgstr "より"
